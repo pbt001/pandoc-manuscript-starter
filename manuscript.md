@@ -22,7 +22,7 @@ csl: geology.csl
 ---
 
 # Introduction
-Test citation @McMillan2016
+Test citation @McMillan2017
 # Methods
 # Implications and Discussion
 # Timetable
