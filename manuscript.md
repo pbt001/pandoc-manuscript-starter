@@ -17,11 +17,12 @@ header-includes:
     - \usepackage{times}
     - \raggedright
 
-bibliography: manuscript.bib
+bibliography: library.bib
 csl: geology.csl
 ---
 
 # Introduction
+Test citation @McMillan2016
 # Methods
 # Implications and Discussion
 # Timetable

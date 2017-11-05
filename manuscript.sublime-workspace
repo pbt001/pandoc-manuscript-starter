@@ -8,10 +8,23 @@
 	"buffers":
 	[
 		{
+			"contents": "---\ntitle: \"Lithosphere removal in the Puna Plateau\"\nauthor: Mitchell McMillan\ndate: \\today{}\n\nfontsize: 12pt\ngeometry: \"left=3.2cm,right=2cm,top=2cm,bottom=2cm\"\nnumbersections: true\nheader-includes:\n    - \\usepackage{setspace}\n    - \\doublespacing\n    - \\usepackage{fancyhdr}\n    - \\fancyhead[RO, RE]{McMillan \\thepage}\n    - \\cfoot{}\n    - \\pagestyle{fancy}\n    - \\renewcommand{\\headrulewidth}{0pt}\n    - \\usepackage{times}\n    - \\raggedright\n\nbibliography: library.bib\ncsl: geology.csl\n---\n\n# Introduction\n\n\n@McMillan\n# Methods\n# Implications and Discussion\n# Timetable\n# References",
 			"file": "manuscript.md",
+			"file_size": 606,
+			"file_write_time": 131543831913309157,
 			"settings":
 			{
-				"buffer_size": 5927,
+				"buffer_size": 585,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/Citer.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 89,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -87,25 +100,49 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 73.0,
-		"last_filter": "remove pack",
+		"height": 400.0,
+		"last_filter": "citer",
 		"selected_items":
 		[
+			[
+				"citer",
+				"Citer: Show All"
+			],
+			[
+				"c",
+				"Citer: Show All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"citebib",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"pand",
+				"Build With: pandoc-markdown-to-word"
+			],
 			[
 				"remove pack",
 				"Package Control: Remove Package"
 			],
 			[
-				"pandoc",
-				"Set Syntax: Pandoc"
-			],
-			[
 				"pandoc:",
 				"Pandoc: Convert a Pandoc file to DocX"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"pre",
@@ -228,7 +265,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 648.0
+		"width": 416.0
 	},
 	"console":
 	{
@@ -247,8 +284,23 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/E/Documents/Developer/pandoc-manuscript-starter"
+	],
 	"file_history":
 	[
+		"/E/Documents/Developer/pandoc-manuscript-starter/manuscript.sublime-project",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/Citer.sublime-settings",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/CiteBibtex/Default.sublime-keymap",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/CiteBibtex/CiteBibtex.sublime-settings",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/CiteBibtex.sublime-settings",
+		"/E/Documents/Developer/pandoc-manuscript-starter/README.md",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
+		"/E/Documents/Developer/pandoc-manuscript-starter/manuscript.bib",
 		"/F/GIS/MODEL/matlab/model_landsat.m",
 		"/E/Dropbox (Personal)/School/Toronto/Tectonics and Planetary Dynamics/Project 3/ArcGIS/Arc_Project/lemhi_slp/metadata.xml",
 		"/E/Documents/Developer/Paper2_revisions/generate-diff.bat",
@@ -258,7 +310,6 @@
 		"/E/Documents/Developer/Paper2_revisions/sublibrary.bib",
 		"/E/Documents/Developer/Paper2_revisions/README.md",
 		"/E/Documents/Developer/Paper2_revisions/manuscript.bbl",
-		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
 		"/E/Documents/Developer/Paper2_revisions/figS1-caption.txt",
 		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/pandoc-markdown-to-word.sublime-build",
 		"/E/Documents/Developer/Paper2_revisions/README.docx",
@@ -413,19 +464,20 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5927,
+						"buffer_size": 585,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								520,
+								520
 							]
 						],
 						"settings":
 						{
+							"spell_check": false,
 							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -433,6 +485,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/Citer.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
