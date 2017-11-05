@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manuscript.md",
+			"settings":
+			{
+				"buffer_size": 5927,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/pandoc-markdown-to-word.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Traditional"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pandoc-markdown-to-word.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/pandoc-markdown-to-word.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"last_filter": "remove pack",
+		"selected_items":
+		[
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pandoc",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"pandoc:",
+				"Pandoc: Convert a Pandoc file to DocX"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"markdown extended",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"add repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"mardown prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package control instal",
+				"Package Control: Install Package"
+			],
+			[
+				"latextools",
+				"LaTeXTools: Show toggles"
+			],
+			[
+				"check",
+				"LaTeXTools: Check system"
+			],
+			[
+				"check sys",
+				"LaTeXTools: Check system"
+			],
+			[
+				"late",
+				"LaTeXTools: Check system"
+			],
+			[
+				"latextoosls",
+				"LaTeXTools: Check system"
+			],
+			[
+				"latextoosl:c",
+				"LaTeXTools: Check system"
+			],
+			[
+				"latextools reset",
+				"LaTeXTools: Reset user settings to default"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"material theme",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"material ",
+				"Material Theme: Configuration"
+			],
+			[
+				"material theme activ",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material theme ac",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Install Package Control"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 389.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/GIS/MODEL/matlab/model_landsat.m",
+		"/E/Dropbox (Personal)/School/Toronto/Tectonics and Planetary Dynamics/Project 3/ArcGIS/Arc_Project/lemhi_slp/metadata.xml",
+		"/E/Documents/Developer/Paper2_revisions/generate-diff.bat",
+		"/E/Documents/Developer/Paper2_revisions/figS2-caption.tex",
+		"/E/Documents/Developer/Paper2_revisions/figS1-caption.tex",
+		"/E/Documents/Developer/Paper2_revisions/manuscript.tex",
+		"/E/Documents/Developer/Paper2_revisions/sublibrary.bib",
+		"/E/Documents/Developer/Paper2_revisions/README.md",
+		"/E/Documents/Developer/Paper2_revisions/manuscript.bbl",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/E/Documents/Developer/Paper2_revisions/figS1-caption.txt",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/pandoc-markdown-to-word.sublime-build",
+		"/E/Documents/Developer/Paper2_revisions/README.docx",
+		"/E/Desktop/MixedRealityTwoController-0-0-3 (1)/MixedRealityTwoController/readme.txt",
+		"/C/Program Files (x86)/Steam/config/steamvr.vrsettings",
+		"/E/Desktop/MixedRealityTwoController-0-0-3 (1)/MixedRealityTwoController/externalcamera.cfg",
+		"/C/Users/mitch/AppData/Local/Temp/CloudBerry Explorer for Amazon S3/2017_09_24_00_12_27_0457/f96185c7-4224-40a3-93fa-36b5f1cef113/currentversion.xml",
+		"/E/Documents/Developer/CoolFontWin/install/Output/currentversion.xml",
+		"/E/Documents/Developer/CoolFontWin/CoolFontWin/bin/x64/Release/OpenVRHelperLog.txt",
+		"/E/Dropbox (Cool Font)/Cool Font Team Folder/Pixel Bar/Realm/server info.txt",
+		"/E/Downloads/Outlander.S03E01.WEB.H264-STRiFE[ettv]/To keep us going please read.txt",
+		"/E/Documents/Developer/cfdrink/package.json",
+		"/E/Downloads/forests-v08-i03_20170910.bib",
+		"/E/Documents/Developer/cfdrink/android/app/src/main/res/values/strings.xml",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-05_182646/output_log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-05_224758/output_log.txt",
+		"/E/Desktop/gac.txt",
+		"/E/Desktop/cronusearth-cronus-calc-bfdbded294a6 (1)/cronusearth-cronus-calc-bfdbded294a6/common/profilecalc/DepthProfilescriptExPV06.m",
+		"/E/Desktop/cronusearth-cronus-calc-bfdbded294a6 (1)/cronusearth-cronus-calc-bfdbded294a6/common/profilecalc/makeplots36.m",
+		"/E/Desktop/cronusearth-cronus-calc-bfdbded294a6 (1)/cronusearth-cronus-calc-bfdbded294a6/common/profilecalc/contourfinder.m",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-05_000854/output_log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-04_234638/output_log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-05_000022/output_log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-04_230252/output_log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-04_233050/output_log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-04_223018/output_log.txt",
+		"/E/Documents/PocketStrafe/Log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-04_222700/output_log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/AltspaceVR/2017-09-04_222216/output_log.txt",
+		"/E/Documents/Developer/CoolFontWin/install/Output/releasenotes.html",
+		"/E/Documents/Developer/CoolFontWin/.git/config",
+		"/C/Molten Core VR/Molten Core VR/Read Me.txt",
+		"/C/Molten Core VR/Molten Core VR/Molten Core VR_Data/output_log.txt",
+		"/E/Documents/Developer/Paper2_revisions/diff.tex",
+		"/E/Documents/Developer/Paper2_revisions/manuscript.pdf",
+		"/C/Python27/Lib/site-packages/latexdiffcite/latexdiffcite.py",
+		"/E/Documents/Developer/Paper2_revisions/.git/COMMIT_EDITMSG",
+		"/E/Dropbox (Personal)/School/LaTeX/library.bib",
+		"/C/COMPOUNDv004/2017-08-19_120344/output_log.txt",
+		"/C/COMPOUND 0.0.03B/2017-08-19_115928/output_log.txt",
+		"/E/Documents/Developer/Paper2_revisions/Paper2_revisions.sublime-project",
+		"/E/Documents/Developer/Paper2_revisions/Manuscript.tex",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Default (Windows).sublime-keymap",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Dropbox (Personal)/School/LaTeX/Streambank Erosion Thesis/Paper3_revisions/sublibrary.bib",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/User/Bold and Italic Markers.tmPreferences",
+		"/C/Users/mitch/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/E/Documents/Developer/Paper2_revisions/.gitignore",
+		"/E/Documents/Developer/Paper2_revisions/rev*.md",
+		"/E/Documents/Developer/Paper2_revisions/generate-diff.txt",
+		"/E/Documents/Developer/Paper2_revisions/sublibary.bib",
+		"/E/Documents/Developer/Paper2_revisions/manuscript.teex",
+		"/E/Documents/Developer/Paper2_revisions/sublibrary",
+		"/C/Users/mitch/.config/git/git-remote-dropbox.json",
+		"/E/Dropbox (Personal)/School/LaTeX/Streambank Erosion Thesis/Paper2_revisions/Manuscript.tex",
+		"/C/Users/mitch/AppData/Roaming/SumatraPDF/SumatraPDF-settings.txt",
+		"/C/Users/mitch/AppData/Local/Sublime Text 3/Cache/LaTeXTools/internal/preview_math/eb18975bdaecdfb96c72871f581756c2.png.err",
+		"/C/Users/mitch/AppData/Local/Sublime Text 3/Cache/LaTeXTools/internal/preview_math/5d5e879acbf32b28e83c6c16da53d3f3.png.err",
+		"/E/AppData/symbolic links.txt",
+		"/C/Program Files (x86)/Windows Kits/10/SDKManifest.xml",
+		"/E/Dropbox (Cool Font)/Cool Font Team Folder/Pixel Bar/CodePush/info.txt",
+		"/E/Documents/Developer/pstrafe-android/app/src/main/java/co/coolfont/pocketstrafe/MovingAverager.java",
+		"/E/Documents/Developer/cfdrink/ios/global.realm",
+		"/E/Dropbox (Personal)/Developer/notes on keys.txt",
+		"/E/Desktop/ChingLiu.Install.Notes.nfo",
+		"/E/Documents/Developer/CoolFontWin/CoolFontWin/bin/x64/Debug/OpenVRHelperLog.txt",
+		"/C/Users/mitch/Downloads/Adobe Photoshop Lightroom 5.6 Final (64 bit) [ChingLiu]/How To Open Nfo Files.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/ArizonaSunshine/2017-06-19_164514/output_log.txt",
+		"/C/COMPOUND 0.0.03B/2017-06-20_161038/output_log.txt",
+		"/C/COMPOUND 0.0.03B/2017-06-19_153104/output_log.txt",
+		"/C/COMPOUND 0.0.03B/2017-06-19_144850/output_log.txt",
+		"/C/COMPOUND 0.0.03B/compound_Data/output_log.txt",
+		"/C/COMPOUND 0.0.03B/2017-06-19_130024/output_log.txt",
+		"/C/COMPOUND 0.0.03B/2017-06-19_124714/output_log.txt",
+		"/C/COMPOUND 0.0.03B/2017-06-19_122930/output_log.txt",
+		"/C/Program Files/PocketStrafe PC/OpenVRHelperLog.txt",
+		"/C/COMPOUND 0.0.03B/2017-06-19_121418/output_log.txt",
+		"/E/Dropbox (Personal)/Archive/Documents/Programs & Keygens/Adobe Illustrator CS6 16.0.0 (32-64 bit) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/E/Dropbox (Personal)/Archive/Documents/Programs & Keygens/cd keys.txt",
+		"/E/Documents/Miscellaneous/adam christmas.docx",
+		"/E/Documents/Miscellaneous/dopbox accounts.txt",
+		"/E/Documents/Miscellaneous/labels.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inprocee",
+			"???",
+			"url",
+			"pages.*{",
+			"pmid",
+			"modeling",
+			"modelling",
+			"modeling",
+			"described above",
+			"depositional",
+			"figure ",
+			"outsides",
+			"%",
+			"> ",
+			"a priori} models",
+			"trimble",
+			"these variables",
+			"  - ",
+			"\\n",
+			"build",
+			"george1989",
+			"figure",
+			"openvr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"modeling",
+			"",
+			"     - ",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manuscript.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 265.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 100.0
+	},
+	"output.markdown":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "manuscript.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
