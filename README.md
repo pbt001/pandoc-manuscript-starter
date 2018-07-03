@@ -8,6 +8,10 @@
 * Markdown Extended
 * Reindent on save - for json (settings) files
 
+## Citer
+
+The workspace is configured for Citer to look for `./library.bib`. You can change this in the workspace or user settings.
+
 ## Recommended Pandoc package settings
 
 You have to add these to the global package settings for SublimeText. Doesn't work in project settings. Note that `pdflatex` and `pandoc-citeproc` need to be on your path.
