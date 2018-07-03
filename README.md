@@ -1,6 +1,8 @@
 ## Recommended Sublime Text packages
 
 * Citer - provides completion and search when citing bibtex entries
+  - Citer: Search
+  - Citer: Show All
 * LaTeXTools - convenience
 * Pandoc - takes care of transforming markdown into pdf or Word
 * Markdown Extended
@@ -8,7 +10,7 @@
 
 ## Recommended Pandoc package settings
 
-Note that `pdflatex` and `pandoc-citeproc` need to be on your path
+You have to add these to the global package settings for SublimeText. Doesn't work in project settings. Note that `pdflatex` and `pandoc-citeproc` need to be on your path.
 
 Pandoc.sublime-settings:
 ```json
