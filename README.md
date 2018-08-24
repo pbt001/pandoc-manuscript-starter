@@ -69,6 +69,8 @@ Pandoc.sublime-settings:
 
 }
 ```
-## To build on Travis
-
-Link the repository to Travis, and run `travis setup releases`. Replace `[API KEY]` with the one generated.
+## Travis
+### Build
+Link the repository to Travis and push a new commit.
+### Deploy pdf to Github releases
+First run `travis setup releases`. Replace `[API KEY]` with the one generated. Push a new tag to trigger a release.
